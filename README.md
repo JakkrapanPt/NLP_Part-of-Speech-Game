@@ -63,7 +63,8 @@ For AI-generated sentences using Large Language Models:
 
 1. **Open Google Colab**
    - Go to [Google Colab](https://colab.research.google.com/)
-   - Upload the `colab_setup.ipynb` file from this project
+   - Open the `colab_setup.ipynb` file from this project
+   - Upload the `fixed_colab_api_server_new.py` file from this project
 
 2. **Run the Colab notebook**
    - Execute all cells in order
