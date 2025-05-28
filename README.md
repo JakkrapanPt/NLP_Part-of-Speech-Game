@@ -5,7 +5,7 @@ A bilingual (Thai-English) educational game that helps users learn and practice 
 ## 🌟 Features
 
 - **Bilingual Support**: Thai and English language support
-- **Multiple Difficulty Levels**: Easy (4-6 words), Medium (6-8 words), Hard (10-12 words)
+- **Multiple Difficulty Levels**: Easy (4-6 words), Medium (6-10 words), Hard (11-18 words)
 - **Interactive Gameplay**: Drag-and-drop or select-based word classification
 - **Real-time Feedback**: Immediate scoring with correct answers and explanations
 - **NLP Integration**: Uses spaCy for English and PyThaiNLP for Thai language processing
@@ -81,8 +81,8 @@ For AI-generated sentences using Large Language Models:
 1. **Select Language**: Choose between Thai (🇹🇭) or English (🇺🇸)
 2. **Choose Difficulty**: 
    - Easy: 4-6 words per sentence
-   - Medium: 6-8 words per sentence
-   - Hard: 10-12 words per sentence
+   - Medium: 6-10 words per sentence
+   - Hard: 11-18 words per sentence
 3. **Start Game**: Click "Start New Game" to generate a random sentence
 4. **Classify Words**: For each word in the sentence, select its correct part of speech
 5. **Get Feedback**: 
