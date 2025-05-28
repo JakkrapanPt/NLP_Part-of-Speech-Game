@@ -264,15 +264,19 @@ If you encounter any issues or have questions:
 
 ---
 
-##Create By
+## Create By
 
 Jakkaphan Patan
 ✉️ jakkrapan.p@mail.kmutt.ac.th
 
+
 Noppakorn Sorndech
 ✉️ noppakorn.s@mail.kmutt.ac.th
 
+
 This project is part of the CPE 357 Natural Language Processing course.
+
+
 **Happy Learning! สนุกกับการเรียนรู้!** 🎓✨
 
 
