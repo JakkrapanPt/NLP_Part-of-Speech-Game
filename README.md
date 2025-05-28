@@ -161,7 +161,7 @@ For AI-generated sentences using Large Language Models:
 
 ### Project Structure
 
-NLP3/
+```
 ├── app.py                            # Main Streamlit application
 ├── fixed_colab_api_server_new.py     # Google Colab API server
 ├── colab_setup.ipynb                 # Colab notebook for easy setup
