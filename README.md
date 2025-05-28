@@ -133,8 +133,9 @@ For AI-generated sentences using Large Language Models:
 4. Local NLP processing analyzes generated content
 5. Enhanced gameplay with AI-generated content
 
-API Architecture
+#### API Architecture
 
+```
 ┌─────────────────┐    HTTP/REST   ┌──────────────────┐
 │   Streamlit     │◄──────────────►│   Google Colab   │
 │   (Local App)   │                │   (API Server)   │
@@ -145,6 +146,7 @@ API Architecture
     │  spaCy  │                         │   LLM   │
     │PyThaiNLP│                         │ Models  │
     └─────────┘                         └─────────┘
+```
 
 
 ### Core Technologies
